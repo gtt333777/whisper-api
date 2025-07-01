@@ -1,0 +1,5 @@
+
+librosa
+music21
+requests
+firebase-admin
